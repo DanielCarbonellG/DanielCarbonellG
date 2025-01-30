@@ -1,6 +1,7 @@
 # 👋 ¡Hola! Soy Daniel  
 
 💻 Estudiante de Ingeniería Informática en la Universidad de La Laguna 
+
 🎯 Cursando el tercer curso en el itinerario de Computación 
 
 ---
